@@ -1,2 +1,2 @@
-# brim_home.html
-Home page created from scratch for Media website
+#BR Interactive Media Website
+HTML and CSS files created from scratch for Media website
